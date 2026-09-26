@@ -19,7 +19,7 @@ public class GradeCalculator {
 	}
     public static void main(String[] args) 
     {
-    	int m1 =75,m2=68,m3=82;
+    	int m1 =55,m2=64,m3=80;
     	int total= calculateTotal(m1,m2,m3);
     	double average=calculateAverage(m1,m2,m3);
         System.out.println("Total:"+total);
